@@ -1,0 +1,15 @@
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\bin\Debug\net6.0\CsharpAassign_1.exe
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\bin\Debug\net6.0\CsharpAassign_1.deps.json
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\bin\Debug\net6.0\CsharpAassign_1.runtimeconfig.json
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\bin\Debug\net6.0\CsharpAassign_1.dll
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\bin\Debug\net6.0\CsharpAassign_1.pdb
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\CsharpAassign_1.csproj.AssemblyReference.cache
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\CsharpAassign_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\CsharpAassign_1.AssemblyInfoInputs.cache
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\CsharpAassign_1.AssemblyInfo.cs
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\CsharpAassign_1.csproj.CoreCompileInputs.cache
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\CsharpAassign_1.dll
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\refint\CsharpAassign_1.dll
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\CsharpAassign_1.pdb
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\CsharpAassign_1.genruntimeconfig.cache
+C:\Users\Aadeelh.latif\source\repos\CsharpAassign_1\obj\Debug\net6.0\ref\CsharpAassign_1.dll
