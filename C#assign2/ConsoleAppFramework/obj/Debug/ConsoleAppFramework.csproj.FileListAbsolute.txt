@@ -1,0 +1,17 @@
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\ConsoleAppFramework.exe.config
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\ConsoleAppFramework.exe
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\ConsoleAppFramework.pdb
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.csproj.AssemblyReference.cache
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.csproj.CoreCompileInputs.cache
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.exe
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.pdb
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aadeelh.latif\Desktop\C#\ConsoleAppFramework\obj\Debug\ConsoleAppFramework.csproj.CopyComplete

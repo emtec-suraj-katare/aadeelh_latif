@@ -1,0 +1,11 @@
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.exe
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.dll
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.deps.json
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.runtimeconfig.json
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\WebApplication3.pdb
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aadeelh.latif\Desktop\C#\WebApplication3\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
