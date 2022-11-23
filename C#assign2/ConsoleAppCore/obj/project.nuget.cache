@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqamTwr8MqBbQv02JMUyLl1zzvHf/zgTFpyjCRCWcCMYUTEjCIIApKl8rEUhOFvBH3kpSbep+6sDcbBH3OcSnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aadeelh.latif\\Desktop\\C#\\ConsoleAppCore\\ConsoleAppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aadeelh.latif\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Aadeelh.latif\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Aadeelh.latif\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Aadeelh.latif\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Aadeelh.latif\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
